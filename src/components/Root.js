@@ -1,8 +1,8 @@
 // /src/components/Root.js
 import React from 'react'
 
-import Routes from './Routes'
+import App from './container/App'
 
-const Root = () => (<Routes />)
+const Root = () => <App />
 
 export default Root

@@ -1,0 +1,6 @@
+.app-container {
+    font-family: sans-serif;
+    height: calc(100vh - 34px - 50px - 64px);
+    padding: 2rem;
+    /* background: linear-gradient(to bottom,#4ea8ce 0%,#96c11f 100%); */
+}
